@@ -1,7 +1,6 @@
 /* Name:      Joseph Santos
  * Date:      09.08.18
  * E-Mail:    jtsantos0001@student.stcc.edu
- * Student #: 0284385
  * 
  */
 
